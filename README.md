@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmadharbi0x1337.
-- 👀 I’m interested in CS, Web, and Crypto
+- 👀 I’m interested in CS, Web, A.I, and Crypto
 - 🌱 I’m currently learning To Be SWE
 - 💞️ I’m looking to collaborate on Any Project That Aligns With My Future Visions.
 - 📫 How to reach me:
