@@ -46,6 +46,7 @@
 
 ---
 
+
 ### 📂 Featured Projects  
 | Repo | Description | Status |
 |------|-------------|--------|
@@ -64,6 +65,12 @@
 
 ---
 
+### 🎓 Certifications
+[![CS50x Certificate](https://img.shields.io/badge/CS50x-Harvard-red?logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/4afb4ccd-72f9-4ef2-b650-3039c2469943)  
+Harvard’s Introduction to Computer Science – C, Python, SQL, Web Development, Algorithms, and Data Structures.
+
+---
+
 ### 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadharbi0x1337&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
@@ -76,6 +83,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahmadharbi0x1337@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+963996579493)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/963996579493)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alharbi-0010502b0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ahmadharbi0x1337/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Ahmad0x1337)
+
 
 ---
 
